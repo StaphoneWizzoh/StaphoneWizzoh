@@ -1,4 +1,4 @@
--  I’m Onyango Omondi.
+-  I’m Staphone Omondi.
 -  I’m interested in Web Development and Programming.
 -  I’m currently learning Computer Science.
 -  I’m looking to collaborate on any web development or similar projects with other enthusiasts.
