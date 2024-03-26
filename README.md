@@ -1,6 +1,4 @@
--  I’m Staphone Omondi.
--  I’m interested in Web Development and Programming.
--  I’m currently learning Computer Science.
+-  Interested in Backend Development and Deep learning.
 -  I’m looking to collaborate on any web development or similar projects with other enthusiasts.
 -  How to reach me ;
       Email: staphoneomondi@gmail.com
