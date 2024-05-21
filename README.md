@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Staphone Omondi</h1>
+<h1 align="center">Hello, I'm Staphone</h1>
 <h3 align="center">I build the invisible parts of software that make the world go round.</h3>
 
 - 🔭 I’m currently working on **TunerBeats**
