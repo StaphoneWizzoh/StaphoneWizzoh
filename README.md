@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [TunerStore](https://github.com/StaphoneWizzoh/TunerStore)
 
-- 👨‍💻 All of my projects are available at [https://github.com/StaphoneWizzoh](https://github.com/StaphoneWizzoh)
+- 👨‍💻 All of my projects are available at [https://github.com/StaphoneWizzoh](https://github.com/StaphoneWizzoh?tab=projects)
 
 - 📫 How to reach me **staphoneomondi@gmail.com**
 
